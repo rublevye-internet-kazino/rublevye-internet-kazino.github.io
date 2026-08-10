@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: rublevye-internet-kazino.github.io
+Sitemap: https://rublevye-internet-kazino.github.io/sitemap.xml
